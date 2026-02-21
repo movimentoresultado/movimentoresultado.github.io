@@ -6,5 +6,11 @@ theme: jekyll-theme-slate
 
 url: https://movimentoresultado.github.io
 
+nav:
+  - title: Início
+    url: /
+  - title: Manifesto
+    url: /manifesto/
+
 header_pages:
   - manifesto.md

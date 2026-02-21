@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Manifesto
+permalink: /manifesto/
 ---
 
 # Manifesto: A Era da Solução, Não da Opinião
