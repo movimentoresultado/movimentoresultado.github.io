@@ -1,0 +1,10 @@
+title: Movimento Resultado
+description: Pela União e Solução.
+lang: pt-BR
+theme: slate
+
+# URL base do GitHub Pages (domínio padrão)
+url: https://movimentoresultado.github.io
+
+header_pages:
+  - manifesto.md
