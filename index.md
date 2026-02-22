@@ -6,7 +6,7 @@ permalink: /
 
 O **Movimento Resultado** é uma iniciativa suprapartidária e independente que nasceu do cansaço com a polarização estéril e da urgência pela solução de problemas. Somos um movimento tecnocrata por método e humanista por missão.
 
-[Manifesto](./manifesto.md)
+[Manifesto](./manifesto.md) | [Instagram](https://www.instagram.com/movimentoresultado)
 
 ---
 
