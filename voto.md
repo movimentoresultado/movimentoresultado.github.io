@@ -1,3 +1,5 @@
+[Home](./index.md) | [Manifesto](./manifesto.md) | [Instagram](https://www.instagram.com/movimentoresultado)
+
 # Polarização vs Voto Ranqueado
 
 O sistema de maioria simples atual (onde você escolhe apenas um nome) força o eleitor a um cálculo estratégico negativo.

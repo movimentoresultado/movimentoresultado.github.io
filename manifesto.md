@@ -4,6 +4,8 @@ title: Manifesto
 permalink: /manifesto/
 ---
 
+[Home](./index.md) | [Manifesto](./manifesto.md) | [Instagram](https://www.instagram.com/movimentoresultado)
+
 # Manifesto: A Era da Solução, Não da Opinião
 
 ## O Problema: O Teatro do Grito
