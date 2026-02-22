@@ -6,7 +6,18 @@ permalink: /
 
 O **Movimento Resultado** é uma iniciativa suprapartidária e independente que nasceu do cansaço com a polarização estéril e da urgência pela solução de problemas. Somos um movimento tecnocrata por método e humanista por missão.
 
-[Leia o Manifesto](./manifesto.md)
+[Manifesto](./manifesto.md)
+
+---
+
+## Problemas / Soluções
+
+- [Polarização / Voto Ranqueado](./voto.md)
+- Corrupção / Mecanismos de Digitalização e Transparência
+- Desempenho do Governo / Indicadores de Desempenho
+- Acesso à Tecnologia / Redução de Impostos de Importação e Consumo
+
+---
 
 ## O que fazemos
 
